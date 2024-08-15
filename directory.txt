@@ -1,0 +1,18 @@
+C:\xampp\htdocs\complaint_system\
+    ├── db.php
+    ├── index.php
+    ├── login.php
+    ├── login_process.php
+    ├── register.php
+    ├── register_process.php
+    ├── complaint.php
+    ├── complaint_process.php
+    ├── admin_login.php
+    ├── admin_login_process.php
+    ├── admin_page.php
+    ├── logout.php
+    ├── public\
+    │   ├── lincoln-logo-1@2x.png
+    │   ├── rectangle-17.svg
+    │   ├── rectangle-9.svg
+    │   └── topography.svg
